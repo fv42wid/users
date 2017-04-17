@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Users\Users\bin\Debug\netcoreapp1.1\Users.deps.json
+C:\Users\Administrator\Desktop\Users\Users\bin\Debug\netcoreapp1.1\Users.runtimeconfig.json
+C:\Users\Administrator\Desktop\Users\Users\bin\Debug\netcoreapp1.1\Users.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Users\Users\bin\Debug\netcoreapp1.1\Users.dll
+C:\Users\Administrator\Desktop\Users\Users\bin\Debug\netcoreapp1.1\Users.pdb
+C:\Users\Administrator\Desktop\Users\Users\obj\Debug\netcoreapp1.1\Users.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Users\Users\obj\Debug\netcoreapp1.1\Users.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Users\Users\obj\Debug\netcoreapp1.1\Users.dll
+C:\Users\Administrator\Desktop\Users\Users\obj\Debug\netcoreapp1.1\Users.pdb
